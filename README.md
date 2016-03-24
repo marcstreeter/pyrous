@@ -1,2 +1,3 @@
-# pygroup
-python meetup demo repo
+# pyrous
+demo module 
+
