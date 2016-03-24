@@ -8,5 +8,5 @@ setup(name="rous",
       author_email="mstreeter@gmail.com",
       license="you killed my father prepare to die",
       packages=["rous"],
-      install_requires=["requests", "beautifulsoup4"],
+      install_requires=["requests"],
       zip_safe=False)
