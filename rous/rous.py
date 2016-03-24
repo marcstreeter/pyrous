@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup as bs
 
 
-def quotes():
+def sayings():
     root_url = "http://www.moviequotedb.com/movies/princess-bride-the/page_{p}.html"
     page = 0
 
