@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name="rous",
-      version="0.1.1",
+      version="0.1.2",
       #description="a package for rodents of unusual size",
       #url="https://github.com/marcstreeter/pygroup",
       #author="Marc Streeter",
