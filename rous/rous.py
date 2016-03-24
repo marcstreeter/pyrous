@@ -1,2 +1,2 @@
-class Rodent(object):
+def sayings():
     pass
