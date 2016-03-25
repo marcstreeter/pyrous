@@ -12,7 +12,7 @@ For more information see README.
 :copyright: (c) 2015 by Marc Streeter.
 :license: Apache 2.0, see LICENSE for more details.
 """
-__version__ = '0.1'
+__version__ = '0.2'
 
 
 from rous import sayings
